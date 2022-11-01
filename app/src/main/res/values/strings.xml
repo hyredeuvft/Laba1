@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Laba1</string>
+    <string name="txtTop">Sing In</string>
+    <string name="txtForgot">Forgot You Password?</string>
+    <string name="txtSing">Sign Up</string>
+    <string name="txtnotAc">You don\'t have an account?</string>
+    <string name="or">-------------------------------------------or-------------------------------------------</string>
+    <string name="email">mark-james@example.com</string>
+    <string name="passw">Password</string>
+    <string name="name">Mark James</string>
+</resources>
